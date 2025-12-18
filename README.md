@@ -10,9 +10,9 @@ This repository contains my personal portfolio website, designed to showcase my 
 
 <img src="assets/screenshots/home.png" alt="Home Page" width="100%" />
 
-<img src="assets/screenshots/projects.png" alt="Projects Section" width="100%" />
+<img src="assets/screenshots/skills.png" alt="Projects Section" width="100%" />
 
-<img src="assets/screenshots/certificates.png" alt="Certificates Section" width="100%" />
+<img src="assets/screenshots/cerificates.png" alt="Certificates Section" width="100%" />
 
 ---
 
@@ -46,10 +46,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/Vigneshkolluru101103/My-Portfolio
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd My-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -66,8 +66,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [vigneshkolluru10@gmail.com](mailto:vigneshkolluru10@gmail.com)
+
 
 ---
 
@@ -78,12 +78,3 @@ Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 ---
 
-### 🏁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
-
----
-
-> *“Showcasing my work and passion through technology 💻”*
->>>>>>> afadf2f (Add portfolio screenshots)
