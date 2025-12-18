@@ -6,7 +6,6 @@ This repository contains my personal portfolio website, designed to showcase my 
 
 
 🖼️ **Screenshots**
-## Screenshots
 
 <img src="assets/screenshots/home.png" alt="Home Page" width="100%" />
 
