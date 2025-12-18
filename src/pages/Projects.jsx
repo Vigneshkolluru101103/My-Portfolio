@@ -4,7 +4,16 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: 'Movie Recommender Systemn',
+    title: 'My-Portfolio',
+    desc: 'A personal portfolio website built with React and Tailwind CSS to showcase my projects and skills.',
+    ss: 'home.png',
+    tech: ['React', 'Tailwind CSS', 'JavaScript','React'],
+    live: 'https://vignesh-portfolio10.netlify.app/',
+    code: 'https://github.com/Vigneshkolluru101103/My-Portfolio'
+  },
+  
+  {
+    title: 'Movie Recommender System',
     desc: 'A machine learning based movie recommendation system using Python and collaborative filtering.',
     ss: '/movie.png',
     tech: ['Python', 'Scikit-learn', 'Jupyter Notebook'],
@@ -19,6 +28,7 @@ const PROJECTS = [
   live: 'https://github.com/Vigneshkolluru101103/Mental-Health-Analyzer',
   code: 'https://github.com/Vigneshkolluru101103/Mental-Health-Analyzer'
   },
+  
  
 ]
 

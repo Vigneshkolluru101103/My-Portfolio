@@ -25,12 +25,7 @@ const IMAGES = {
       photos: ["/gallery/m.png", "/gallery/m2.jpeg"],
     },
     
-    {
-      id: 1,
-      caption:
-        "📂ProfileX - Smart Data Profiler + Preprocessor",
-      photos: ["/gallery/profilex.jpeg", "/gallery/profilex2.jpeg","/gallery/profilex3.jpeg", "/gallery/profilex4.jpeg"],
-    },
+    
   ],
   achievements: [
     {
