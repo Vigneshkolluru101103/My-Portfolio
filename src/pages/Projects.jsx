@@ -28,6 +28,14 @@ const PROJECTS = [
   live: 'https://github.com/Vigneshkolluru101103/Mental-Health-Analyzer',
   code: 'https://github.com/Vigneshkolluru101103/Mental-Health-Analyzer'
   },
+  {
+    title: 'A full- stack web application for mobile store',
+    desc: 'A full-stack web application for a mobile store built with web technologies.',
+    ss: '/mobile.png',
+    tech: ['Javascript', 'Node.js', 'MongoDB', 'Express'],
+    live: 'https://promotion-website.netlify.app/',
+    code: 'https://github.com/Vigneshkolluru101103/Promotion-website'
+  }
   
  
 ]

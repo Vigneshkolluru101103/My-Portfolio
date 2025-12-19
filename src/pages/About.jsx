@@ -141,7 +141,7 @@ const AboutMe = () => {
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   4th Year (Pursuing) | GPA: 8.5
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>2022 – 2026</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>2023 – 2026</p>
               </div>
             </motion.div>
 
@@ -186,7 +186,7 @@ const AboutMe = () => {
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   SBTET  | Percentage: 79%
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2022</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>2020 –  2023</p>
               </div>
             </motion.div>
 
