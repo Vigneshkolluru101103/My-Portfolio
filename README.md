@@ -2,7 +2,7 @@
 # 💻 Kolluru Vignesh — Portfolio Website
 This repository contains my personal portfolio website, designed to showcase my projects, technical skills, internship experience, certifications, and resume. The portfolio is built with a clean and responsive design using modern web development technologies.
 
-🌐 **Website:** [Vignesh Portfolio](https://vignesh-portfolio10.netlify.app/)
+🌐 **Website:** [Vignesh Portfolio](https://vignesh-kolluru-portfolio.netlify.app/)
 
 
 🖼️ **Screenshots**
