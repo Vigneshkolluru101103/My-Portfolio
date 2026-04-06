@@ -8,7 +8,7 @@ const PROJECTS = [
     desc: 'A personal portfolio website built with React and Tailwind CSS to showcase my projects and skills.',
     ss: 'home.png',
     tech: ['React', 'Tailwind CSS', 'JavaScript','React'],
-    live: 'https://vignesh-portfolio10.netlify.app/',
+    live: 'https://vignesh-kolluru-portfolio.netlify.app/',
     code: 'https://github.com/Vigneshkolluru101103/My-Portfolio'
   },
   
